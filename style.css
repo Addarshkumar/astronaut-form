@@ -61,11 +61,11 @@ h2{
 #number{
     position: relative;
     left: 40px;
-    top: 30px;
+    top: 15px;
 }
 #space-travellers{
     position: relative;
-    left: 40px;top: 30px;
+    left: 40px;top: 20px;
 }
 #email{
     position: relative;
@@ -73,19 +73,19 @@ h2{
 }
 #placeholder{
     position: relative;
-    left: 40px;top: 30px;
+    left: 40px;top: 35px;
 }
 #spacesuit{
     position: relative;
-    left: 40px;top: 40px;
+    left: 40px;top: 50px;
 }
 #yes{
     position: relative;
-    left: 50px;top: 20px;
+    left: 50px;top: 30px;
 }
 #no{
     position: relative;
-    left: 150px;bottom: 50px;
+    left: 150px;bottom: 40px;
 }
 #sub{
     background-color: rgb(203, 135, 86);
@@ -94,12 +94,12 @@ h2{
 }
 #radio-1{
     position: relative;
-    left: 115px;bottom: 15px;
+    left: 115px;bottom: 5px;
 }
 
 #radio-2{
     position: relative;
-    left: 170px;bottom: 85px;
+    left: 170px;bottom: 75px;
 }
 #sub{
     border-radius: 35px;
